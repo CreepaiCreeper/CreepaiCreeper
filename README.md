@@ -46,7 +46,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+<!---START_SECTION:waka-->
+<!---end_SECTION:waka-->
+
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/CreepaiCreeper/CreepaiCreeper/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
