@@ -2,10 +2,6 @@
 
 ###
 
-<img data-importer="image" align="right" height="180" src="https://img.magnific.com/premium-photo/anime-illustration-boy-working-late-laptop-cozy-room_1088041-89278.jpg?semt=ais_hybrid&w=740&q=80"  />
-
-###
-
 <h2 data-importer="text" align="left">About me</h2>
 
 ###
@@ -15,6 +11,10 @@
 ###
 
 <h2 data-importer="text" align="left">Skills</h2>
+
+###
+
+<img data-importer="image" align="right" height="180" src="https://img.magnific.com/premium-photo/anime-illustration-boy-working-late-laptop-cozy-room_1088041-89278.jpg?semt=ais_hybrid&w=740&q=80"  />
 
 ###
 
@@ -68,6 +68,16 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/CreepaiCreeper/CreepaiCreeper/snake-output/snake.svg" alt="Snake animation" />
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=CreepaiCreeper.CreepaiCreeper&"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CreepaiCreeper/CreepaiCreeper/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CreepaiCreeper/CreepaiCreeper/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CreepaiCreeper/CreepaiCreeper/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 ###
