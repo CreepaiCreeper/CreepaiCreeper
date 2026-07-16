@@ -46,8 +46,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-<!---START_SECTION:waka-->
-<!---end_SECTION:waka-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 
 <div data-importer="stats" align="center">
