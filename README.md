@@ -2,9 +2,7 @@
 
 ###
 
-<div data-importer="image" align="right">
-  <img data-importer="image" height="180" src="https://img.magnific.com/premium-photo/anime-illustration-boy-working-late-laptop-cozy-room_1088041-89278.jpg?semt=ais_hybrid&w=740&q=80"  />
-</div>
+<img data-importer="image" align="right" height="180" src="https://img.magnific.com/premium-photo/anime-illustration-boy-working-late-laptop-cozy-room_1088041-89278.jpg?semt=ais_hybrid&w=740&q=80"  />
 
 ###
 
