@@ -47,6 +47,15 @@
 </div>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 09 July 2026 - To: 16 July 2026
+
+TypeScript   15 mins               ██████████▓░░░░░░░░░░░░░░   42.84 %
+YAML         10 mins               ███████▓░░░░░░░░░░░░░░░░░   30.13 %
+Markdown     9 mins                ██████▓░░░░░░░░░░░░░░░░░░   27.03 %
+```
+
 <!--END_SECTION:waka-->
 
 
