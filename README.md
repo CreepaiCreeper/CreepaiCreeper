@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">Hello👋, I'm CreepaiCreeper, I'm a highly motivated and ambitious Full Stack Web Developer who genuinely loves building things from scratch 🚀. I have a deep passion for writing clean code and figuring out complex backend logic 🧠. My journey is a bit unique—I am originally from Pakistan 🇵🇰, but I grew up and found my roots entirely here in Istanbul, Turkey 🇹🇷. This background helped me become highly adaptable and gave me a sharp mindset when it comes to technology.<br><br>I really thrive when I'm working on innovative projects, fixing tough architectural bugs, and pushing my apps to be as fast as possible 🛠️. For me, development isn't just a daily job; it’s all about raw execution, continuous learning, and building high-performance software with every single repository I launch 🏁.</p>
+<p data-importer="text" align="left">Hello👋, I'm CreepaiCreeper, I'm a highly motivated and ambitious Full Stack Web Developer who genuinely loves building things from scratch 🚀. I have a deep passion for writing clean code and figuring out complex backend logic 🧠. My journey is a bit unique—I am originally from Pakistan, but I grew up and found my roots entirely here in Istanbul, Turkey. This background helped me become highly adaptable and gave me a sharp mindset when it comes to technology.<br><br>I really thrive when I'm working on innovative projects, fixing tough architectural bugs, and pushing my apps to be as fast as possible 🛠️. For me, development isn't just a daily job; it’s all about raw execution, continuous learning, and building high-performance software with every single repository I launch 🏁.</p>
 
 ###
 
