@@ -24,11 +24,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 July 2026 - To: 16 July 2026
+From: 11 July 2026 - To: 18 July 2026
 
-TypeScript   15 mins               ██████████▓░░░░░░░░░░░░░░   42.84 %
-YAML         10 mins               ███████▓░░░░░░░░░░░░░░░░░   30.13 %
-Markdown     9 mins                ██████▓░░░░░░░░░░░░░░░░░░   27.03 %
+HTML         2 hrs 39 mins         ████████▓░░░░░░░░░░░░░░░░   34.71 %
+TypeScript   2 hrs 10 mins         ███████░░░░░░░░░░░░░░░░░░   28.47 %
+CSS          1 hr 19 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
+Markdown     57 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
+YAML         11 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
 ```
 
 <!--END_SECTION:waka-->
