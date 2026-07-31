@@ -24,12 +24,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 July 2026 - To: 28 July 2026
+From: 23 July 2026 - To: 30 July 2026
 
-Rust         2 hrs 54 mins         ████████████████████████░   95.85 %
-TOML         4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-TypeScript   2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Rust   1 hr 55 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
