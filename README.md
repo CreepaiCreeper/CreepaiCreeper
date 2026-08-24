@@ -24,13 +24,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 August 2026 - To: 21 August 2026
+From: 15 August 2026 - To: 22 August 2026
 
-TypeScript   4 hrs 1 min           █████████████████████▒░░░   85.45 %
-Prisma       31 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
-Bash         9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+TypeScript   2 hrs 38 mins         █████████████████████▒░░░   85.45 %
+Prisma       17 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
+Bash         9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
