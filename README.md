@@ -24,13 +24,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 October 2026 - To: 25 October 2026
+From: 19 October 2026 - To: 26 October 2026
 
-Bash         39 mins               ███████████████████▓░░░░░   79.21 %
-Prisma       8 mins                ████▒░░░░░░░░░░░░░░░░░░░░   17.22 %
-TypeScript   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-JSON         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-TSConfig     0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Prisma   4 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
